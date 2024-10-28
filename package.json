@@ -3,6 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@carbon/colors": "11.21.0",
+    "@carbon/icons-react": "^11.52.0",
+    "@carbon/react": "^1.69.0",
+    "@carbon/styles": "^1.68.0",
+    "@carbon/themes": "11.34.0",
+    "@carbon/type": "11.26.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
